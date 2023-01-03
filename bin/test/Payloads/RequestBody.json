@@ -1,0 +1,19 @@
+{
+    "id": 33,
+    "category": {
+      "id": 33,
+      "name": "string"
+    },
+    "name": "Perri",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 33,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  }
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PetStore API scenarios" tests="1" skipped="0" failures="1" errors="0" timestamp="2023-01-02T14:45:46" hostname="AR0FVFCH1VCL415" time="0.157">
+  <properties/>
+  <testcase name="Prueba POST" classname="PetStore API scenarios" time="0.157">
+    <failure message="io.cucumber.junit.UndefinedStepException: The step 'I send a POST request with a valid body to the https://petstore.swagger.io endpoint' is undefined.&#10;You can implement this step using the snippet(s) below:&#10;&#10;@Given(&quot;I send a POST request with a valid body to the https:\\/\\/petstore.swagger.io endpoint&quot;)&#10;public void i_send_a_post_request_with_a_valid_body_to_the_https_petstore_swagger_io_endpoint() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;" type="io.cucumber.junit.UndefinedStepException">io.cucumber.junit.UndefinedStepException: The step 'I send a POST request with a valid body to the https://petstore.swagger.io endpoint' is undefined.
+You can implement this step using the snippet(s) below:
+
+@Given(&quot;I send a POST request with a valid body to the https:\\/\\/petstore.swagger.io endpoint&quot;)
+public void i_send_a_post_request_with_a_valid_body_to_the_https_petstore_swagger_io_endpoint() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
